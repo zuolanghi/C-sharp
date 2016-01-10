@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thread", "thread\thread.csproj", "{4FF63384-ED1C-4A6C-820F-E56EA16CFD73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadLevel", "ThreadLevel\ThreadLevel.csproj", "{2AA2E288-6D06-44E9-A1C3-520B0B72B937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Process1", "Process1\Process1.csproj", "{067FAEAD-61D1-4572-B8F5-49C9D2F0C7F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectMultipleFileDialog", "SelectMultipleFileDialog\SelectMultipleFileDialog.csproj", "{3315ECCE-5EBD-49E7-A7D9-2E0D8B3F4543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graphics", "graphics\graphics.csproj", "{7B7C9CAC-0DF1-4BF3-A0A9-6E0F514D53BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServer", "SocketServer\SocketServer.csproj", "{7036F47F-A98F-4BE7-958E-A23795AECBB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClient", "SocketClient\SocketClient.csproj", "{5027780C-3419-4A3B-B7C8-519B6D71296C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF63384-ED1C-4A6C-820F-E56EA16CFD73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF63384-ED1C-4A6C-820F-E56EA16CFD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF63384-ED1C-4A6C-820F-E56EA16CFD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF63384-ED1C-4A6C-820F-E56EA16CFD73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AA2E288-6D06-44E9-A1C3-520B0B72B937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA2E288-6D06-44E9-A1C3-520B0B72B937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA2E288-6D06-44E9-A1C3-520B0B72B937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA2E288-6D06-44E9-A1C3-520B0B72B937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067FAEAD-61D1-4572-B8F5-49C9D2F0C7F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067FAEAD-61D1-4572-B8F5-49C9D2F0C7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067FAEAD-61D1-4572-B8F5-49C9D2F0C7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067FAEAD-61D1-4572-B8F5-49C9D2F0C7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3315ECCE-5EBD-49E7-A7D9-2E0D8B3F4543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3315ECCE-5EBD-49E7-A7D9-2E0D8B3F4543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3315ECCE-5EBD-49E7-A7D9-2E0D8B3F4543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3315ECCE-5EBD-49E7-A7D9-2E0D8B3F4543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7C9CAC-0DF1-4BF3-A0A9-6E0F514D53BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7C9CAC-0DF1-4BF3-A0A9-6E0F514D53BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7C9CAC-0DF1-4BF3-A0A9-6E0F514D53BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7C9CAC-0DF1-4BF3-A0A9-6E0F514D53BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7036F47F-A98F-4BE7-958E-A23795AECBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7036F47F-A98F-4BE7-958E-A23795AECBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7036F47F-A98F-4BE7-958E-A23795AECBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7036F47F-A98F-4BE7-958E-A23795AECBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5027780C-3419-4A3B-B7C8-519B6D71296C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5027780C-3419-4A3B-B7C8-519B6D71296C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5027780C-3419-4A3B-B7C8-519B6D71296C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5027780C-3419-4A3B-B7C8-519B6D71296C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
